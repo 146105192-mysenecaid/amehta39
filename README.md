@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Anshul Mehta
-I am enrolled in OPS445NAA Section
+Hi my name is Anshul and I am enrolled in OPS445NAA section
